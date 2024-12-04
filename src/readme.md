@@ -64,3 +64,21 @@ Access the HTML-based interface at http://127.0.0.1:8000/static/index.html to cl
 4. **Access the API**
 - Visit the Swagger docs: http://127.0.0.1:8000/docs
 - Use the web interface: http://127.0.0.1:8000/static/index.html
+
+## Usage Example
+- **http://127.0.0.1:8000/docs:**
+    -  After using the link, you will be addressed to such page:
+![зображення](https://github.com/user-attachments/assets/3838d343-9dbd-4aca-b743-9fad6b2b491b)
+    -  Click "Try it out" and enter your string that is to be classified:
+![зображення](https://github.com/user-attachments/assets/19ed8bb4-98fc-4768-8c90-8a5155dbd132)
+    -  Click "Execute" and check results:
+![зображення](https://github.com/user-attachments/assets/03f828a2-18f3-4e97-a15d-ba607f73b3f1)
+
+- **http://127.0.0.1:8000/static/index.html:**
+    -  After using the link, you will be addressed to such page:
+![зображення](https://github.com/user-attachments/assets/3c1bc084-eb8e-4775-931e-f2ecf4586dbe)
+    -  Enter your string that is to be classified:
+![зображення](https://github.com/user-attachments/assets/e7da0602-abdc-4c08-9587-e39510b9f5fa)
+    -  Click "Classify" and check results:
+![зображення](https://github.com/user-attachments/assets/b5fdc3fe-9221-4ef7-b951-bf79d328aab2)
+
