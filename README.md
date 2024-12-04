@@ -31,3 +31,5 @@ The program contains a simple and clear **API** that allows the user to independ
    Use the following command to install required dependencies:
     ```bash
     pip install -r requirements.txt
+## How to use
+Detailed instruction of API usage can be found in /src/Readme.md
