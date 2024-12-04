@@ -48,10 +48,10 @@ Access the HTML-based interface at http://127.0.0.1:8000/static/index.html to cl
 
 ## Installation Commands
 1. **Clone or download the repository**
-   ```code
+  ```code
   git clone https://github.com/DianaVyshotravka/OpenInsiders_hackaton.git
   cd OpenInsiders_hackaton
-   ```
+  ```
 2. **Install Python dependencies**
   ```code
   pip install fastapi uvicorn pandas scikit-learn tensorflow torch transformers numpy openpyxl spacy
