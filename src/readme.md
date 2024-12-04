@@ -50,7 +50,7 @@ Access the HTML-based interface at http://127.0.0.1:8000/static/index.html to cl
 1. **Clone or download the repository**
    ```code
   git clone https://github.com/DianaVyshotravka/OpenInsiders_hackaton.git
-   cd OpenInsiders_hackaton
+  cd OpenInsiders_hackaton
    ```
 2. **Install Python dependencies**
   ```code
