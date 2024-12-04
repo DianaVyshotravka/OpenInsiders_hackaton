@@ -32,4 +32,4 @@ The program contains a simple and clear **API** that allows the user to independ
     ```bash
     pip install -r requirements.txt
 ## How to use
-Detailed instruction of API usage can be found in /src/Readme.md
+Detailed instruction of API usage can be found [here](src/readme.md)
