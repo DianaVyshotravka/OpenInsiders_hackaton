@@ -27,3 +27,7 @@ The program contains a simple and clear **API** that allows the user to independ
    ```bash
    git clone https://github.com/DianaVyshotravka/OpenInsiders_hackaton.git
    cd OpenInsiders_hackaton
+2. **Install dependencies**
+   Use the following command to install required dependencies:
+    ```bash
+    pip install -r requirements.txt
